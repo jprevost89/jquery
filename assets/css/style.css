@@ -1,14 +1,14 @@
 /* General Elements*/
 body{
-	background-image: url("../images/background.png")
+	background-image: url("https://i.pinimg.com/originals/05/3d/0e/053d0e0e6a047192ab76c94f47355cdd.jpg")
 }
 div{
-	background-color: white;
+	background-color: burlywood;
 	margin: 10px;
 	width: 25%
 }
 div{
-	border: solid 2px antiquewhite;
+	border: solid 5px turquoise;
 	padding: 10px;
 }
 h1, h3, span{
@@ -16,18 +16,18 @@ h1, h3, span{
 	text-align: center;
 }
 h1{
-	font-size: 30pt;
+	font-size: 35pt;
 }
 ol{
 	list-style: decimal inside; 
 }
 ul {
 	list-style: disc inside;
-	text-indent: 20px;
+	text-indent: 25px;
 }
 /* Specfic Elements*/
 div.header, div.gems{
-	background-color: #e0e0eb;
+	background-color: burlywood;
 }
 div.header, div.instructions{
 	width: 50%;
@@ -51,14 +51,14 @@ div.header, div.instructions{
 }
 /* IDs */
 #blue{
-	color: #3092c7;
+	color: blue;
 }
 #green{
-	color: #00aa59;
+	color: green;
 }
 #red{
-	color: #ec4b5f;
+	color: red;
 }
 #yellow{
-	color: #ffc225;
+	color: yellow;
 }
